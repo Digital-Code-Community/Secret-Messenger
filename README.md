@@ -41,7 +41,7 @@ const decryptedString = encrypter.decrypt(encryptedString);
 console.log(`Original string: ${originalString}`);
 console.log(`Encrypted string: ${encryptedString}`);
 console.log(`Decrypted string: ${decryptedString}`);
-
+// You can also use for encrypting passwords
 ```
 
 **Explanation**
